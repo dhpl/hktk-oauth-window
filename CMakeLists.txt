@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.21)
-project(HKTKOAuthWindows VERSION 1.3.11 LANGUAGES C CXX)
+project(HKTKOAuthWindows VERSION 1.3.12 LANGUAGES C CXX)
 
 if(NOT WIN32)
   message(FATAL_ERROR "HKTK OAuth Windows SDK only supports Windows")

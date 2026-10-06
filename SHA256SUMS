@@ -1,5 +1,5 @@
-3ec481b54fa1fd8de49f030c2599ed329579ff4f3b915f1359c725cc52d3cf43  native/bin/HKTKSDK.dll
-49767de8c95d1b7d9d02d132574d3222dee943b2686da2839171dcb5e2766475  java/HKTKSDKJNI.dll
-d6c9536c4d11620e06e1259a297e7eaa3349bbb55d61b862857d425396d5f483  java/hktk-sdk-windows-java-1.3.11.jar
-c96d1d17e7e0eb83be2189106b9fb2ab22035a46d08b20f889880c9e6f9f4481  gdx/hktk-sdk-windows-gdx-1.3.11.jar
-91e957aca64ffe8e01094f52b7c7f427f8b8dedff62e396f212cab426fe2ebd1  csharp/HKTKSDK.Managed.dll
+1e4ae77e90b90e05eed992d8d584944d3005098ce1fc8c97276a4e5c522d44ea  native/bin/HKTKSDK.dll
+ed31b6fe905ee54c916ae883c9e94d398b16918ddf1eb85a9d4b9697b388b161  java/HKTKSDKJNI.dll
+671d0ba3c00ff24664f87a1361848e347fa5b4fdf3140cc1f22119fead1ee6f2  java/hktk-sdk-windows-java-1.3.12.jar
+256480b64e66e474541930b7edbe57d674563c2f32312c6273ac8350422990bb  gdx/hktk-sdk-windows-gdx-1.3.12.jar
+fbe39cd327143c0c3d25c71e78c16bd4bf11fcca5ea6c17b6192d45c1e1faf47  csharp/HKTKSDK.Managed.dll

@@ -1,6 +1,6 @@
 {
   "name": "com.hktk.sdk",
-  "version": "1.3.11",
+  "version": "1.3.12",
   "displayName": "HKTK SDK for Windows",
   "description": "HKTK Web OAuth login for Windows standalone games.",
   "unity": "2021.3",
