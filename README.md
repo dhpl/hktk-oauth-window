@@ -1,6 +1,6 @@
 # HKTK OAuth SDK for Windows
 
-SDK OAuth cho game Windows, Cocos, Unity, Java và libGDX. Phiên bản hiện tại là `1.3.12`, hỗ trợ Windows x64.
+SDK OAuth cho game Windows, Cocos, Unity, Java và libGDX. Phiên bản hiện tại là `1.3.13`, hỗ trợ Windows x64.
 
 ## C++/Cocos với CMake
 
@@ -56,7 +56,7 @@ Package đã chứa C# wrapper và Windows x86_64 plugin.
 
 ## Java
 
-Thêm `java/hktk-sdk-windows-java-1.3.12.jar` vào classpath. Đặt `java/HKTKSDK.dll` và `java/HKTKSDKJNI.dll` trong `java.library.path`.
+Thêm `java/hktk-sdk-windows-java-1.3.13.jar` vào classpath. Đặt `java/HKTKSDK.dll` và `java/HKTKSDKJNI.dll` trong `java.library.path`.
 
 ```java
 HKTKConfig config = HKTKConfig.builder("YOUR_CLIENT_ID").build();
@@ -65,7 +65,7 @@ try (HKTKClient client = new HKTKClient(config)) {
 }
 ```
 
-libGDX dùng thêm `gdx/hktk-sdk-windows-gdx-1.3.12.jar`. Callback được chuyển về libGDX application thread.
+libGDX dùng thêm `gdx/hktk-sdk-windows-gdx-1.3.13.jar`. Callback được chuyển về libGDX application thread.
 
 SDK mở trình duyệt mặc định, nhận OAuth callback qua loopback và trả `code`, `state`, `redirectUri`. Backend game dùng nguyên văn `redirectUri` để đổi code lấy token. Không đặt `clientSecret` trong game.
 

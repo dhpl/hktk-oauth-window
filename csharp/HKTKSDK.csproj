@@ -6,7 +6,7 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageId>HKTKSDK.Windows</PackageId>
     <AssemblyName>HKTKSDK.Managed</AssemblyName>
-    <Version>1.3.12</Version>
+    <Version>1.3.13</Version>
     <Authors>HKTK</Authors>
     <Description>HKTK Web OAuth SDK wrapper for Windows.</Description>
   </PropertyGroup>
